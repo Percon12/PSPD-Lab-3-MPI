@@ -1,1 +1,1 @@
-# PSPD-Lab-2-MPI
+# PSPD-Lab-3-MPI
