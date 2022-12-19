@@ -1,0 +1,1 @@
+frase teste para saber o numero de caracteres em um arquivo
